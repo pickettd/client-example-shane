@@ -1,2 +1,2 @@
 # server-example-shane
-Quick example Node server to test with Shane
+Quick example server to test with Shane
